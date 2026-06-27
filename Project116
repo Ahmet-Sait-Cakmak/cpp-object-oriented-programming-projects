@@ -1,0 +1,3 @@
+﻿  C++ Lambda Capture.cpp
+C:\Users\ahmet\Desktop\C++\Project116; C++ Lambda Capture\C++ Lambda Capture.cpp(26,13): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  Project116; C++ Lambda Capture.vcxproj -> C:\Users\ahmet\Desktop\C++\Project116; C++ Lambda Capture\x64\Debug\Project116; C++ Lambda Capture.exe

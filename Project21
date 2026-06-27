@@ -1,0 +1,4 @@
+﻿  C++'ta Ornek Mulakat Sorusu.cpp
+C:\Users\ahmet\Desktop\C++\Project21; C++'ta Ornek Mulakat Sorusu\C++'ta Ornek Mulakat Sorusu.cpp(7,22): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ahmet\Desktop\C++\Project21; C++'ta Ornek Mulakat Sorusu\C++'ta Ornek Mulakat Sorusu.cpp(11,9): warning C4804: '<=' : işlemde güvenli olmayan 'bool' türü kullanımı
+  Project21; C++'ta Ornek Mulakat Sorusu.vcxproj -> C:\Users\ahmet\Desktop\C++\Project21; C++'ta Ornek Mulakat Sorusu\x64\Debug\Project21; C++'ta Ornek Mulakat Sorusu.exe

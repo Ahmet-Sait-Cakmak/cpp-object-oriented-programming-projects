@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project12; cin fonksiyonu ile kullanicidan alinan verilerin ortalamasini hesaplama.vcxproj" />
+</Solution>

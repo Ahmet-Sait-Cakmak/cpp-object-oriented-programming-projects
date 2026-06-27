@@ -1,0 +1,7 @@
+﻿  C++'ta Kütüphane (Library) Kullanimi.cpp
+C:\Users\ahmet\Desktop\C++\Project11; C++'ta Kütüphane (Library) Kullanimi\C++'ta Kütüphane (Library) Kullanimi.cpp(14,14): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ahmet\Desktop\C++\Project11; C++'ta Kütüphane (Library) Kullanimi\C++'ta Kütüphane (Library) Kullanimi.cpp(20,16): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ahmet\Desktop\C++\Project11; C++'ta Kütüphane (Library) Kullanimi\C++'ta Kütüphane (Library) Kullanimi.cpp(21,15): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ahmet\Desktop\C++\Project11; C++'ta Kütüphane (Library) Kullanimi\C++'ta Kütüphane (Library) Kullanimi.cpp(22,16): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ahmet\Desktop\C++\Project11; C++'ta Kütüphane (Library) Kullanimi\C++'ta Kütüphane (Library) Kullanimi.cpp(23,16): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Project11; C++'ta Kütüphane (Library) Kullanimi.vcxproj -> C:\Users\ahmet\Desktop\C++\Project11; C++'ta Kütüphane (Library) Kullanimi\x64\Debug\Project11; C++'ta Kütüphane (Library) Kullanimi.exe

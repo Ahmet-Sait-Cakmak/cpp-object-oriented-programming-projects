@@ -1,0 +1,26 @@
+﻿  Map Olusturma ve Eleman Ekleme.cpp
+C:\Users\ahmet\Desktop\C++\Project131; Map Olusturma ve Eleman Ekleme\Map Olusturma ve Eleman Ekleme.cpp(15,21): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\ahmet\Desktop\C++\Project131; Map Olusturma ve Eleman Ekleme\Map Olusturma ve Eleman Ekleme.cpp(16,21): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,54): warning C4244: 'başlatılıyor': '_Ty' - '_Ty2' dönüşümü; veri kaybı olabilir
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,54): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,54): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,54): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,54): warning C4244:             _Ty2=float
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,54): warning C4244:         ]
+  ('Map%20Olusturma%20ve%20Eleman%20Ekleme.cpp' kaynak dosyası derleniyor)
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,54):
+      şablon örneği oluşturma bağlamı (önce en eski olan)
+          C:\Users\ahmet\Desktop\C++\Project131; Map Olusturma ve Eleman Ekleme\Map Olusturma ve Eleman Ekleme.cpp(20,21):
+          derlenen şablon işlevi 'std::pair<const int,float>::pair<int,double,0>(_Other1 &&,_Other2 &&) noexcept' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Other1=int,
+              _Other2=double
+          ]
+              C:\Users\ahmet\Desktop\C++\Project131; Map Olusturma ve Eleman Ekleme\Map Olusturma ve Eleman Ekleme.cpp(20,20):
+              'main' içinde ilk 'std::pair<const int,float>::pair' başvurusuna bakın
+  
+  Project131; Map Olusturma ve Eleman Ekleme.vcxproj -> C:\Users\ahmet\Desktop\C++\Project131; Map Olusturma ve Eleman Ekleme\x64\Debug\Project131; Map Olusturma ve Eleman Ekleme.exe
